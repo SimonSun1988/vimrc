@@ -1,0 +1,19 @@
+set bg=dark
+set nu                                                                                                            
+set autoindent                                                                                      
+set autowrite
+set ruler
+set tabstop=2 
+set shiftwidth=2                                                                                    
+set showmatch                                                                                       
+set expandtab                                                                                     
+"set backspace=indent,eol,start"                                                                      
+set clipboard=unnamed                                                                               
+set mouse=r                                                                                         
+syntax on                                                                                           
+set cursorline cursorcolumn                                                                         
+set colorcolumn=100 
+set cursorline
+set nocompatible
+set backspace=2
+set mouse=a
